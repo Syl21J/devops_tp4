@@ -235,7 +235,7 @@ public class MyUnsortedListTest {
         UnsortedList<String> list = MyUnsortedList.of();
         list.append("aaaaa");
         assertEquals("Append un element","aaaaa", list.pop());
-    }
+    }//oui
 
     @Test
     public void testAppendString2() {
@@ -258,6 +258,7 @@ public class MyUnsortedListTest {
         list.append("Last");
         assertEquals("Append beaucoup d'elements", "Last", list.popLast());
     }
+    //Test pas ouf ouf 
 
     //------Insert------
 
