@@ -6,7 +6,7 @@ public class ListManipulator {
 		UnsortedList<Integer> list = MyUnsortedList.of();
 
 		list.append(6);
-		list.append(5);
+		list.append(20000000);
 		list.append(4);
 		list.append(3);
 		

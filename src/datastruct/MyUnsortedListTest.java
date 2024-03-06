@@ -258,7 +258,7 @@ public class MyUnsortedListTest {
         list.append("Last");
         assertEquals("Append beaucoup d'elements", "Last", list.popLast());
     }
-    //Test pas ouf ouf 
+    //Test pas ouf ouf
 
     //------Insert------
 
